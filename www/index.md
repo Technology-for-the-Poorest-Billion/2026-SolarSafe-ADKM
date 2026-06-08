@@ -1,5 +1,5 @@
 ---
-title: Landing page of the website
+title: 2026-SolarSafe-ADKM
 ---
 
 ## Introduction
