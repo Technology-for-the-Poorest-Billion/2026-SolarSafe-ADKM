@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Individual Report
 ---
 
@@ -375,7 +376,7 @@ Key experimental procedures to control:
 </tbody></table>
 <p align="center">
   <caption>
-    <a href="../final/Drying Experiment Data.xlsx">Experiment data</a> (Donovan).
+    <a href="https://github.com/Technology-for-the-Poorest-Billion/2026-SOLARSAFE-Mechanism/blob/main/final/Drying%20Experiment%20Data.xlsx">Experiment data</a> in folder "final" (Donovan).
   </caption>
 </p>
 
