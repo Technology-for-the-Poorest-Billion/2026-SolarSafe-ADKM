@@ -381,11 +381,11 @@ Key experimental procedures to control:
 
 The metrics for drying effectiveness we have included are:
 
-- $\text{Weight \% loss}=\frac{W_{\text{start}}-W_{\text{end}}}{W_{\text{start}}}\times100\%$.<br/>
+- $\text{Weight % loss}=\frac{W_{\text{start}}-W_{\text{end}}}{W_{\text{start}}}\times100\%$.<br/>
 Normalises loss of weight with starting weight of test samples.  
 - $\text{Drying rate}=\frac{W_{\text{start}}-W_{\text{end}}}{duration}$.<br/>
 This is the important metric in working out drying capacity of a dryer when at full capacity, as it gives the total scale of the drying. Note that it scales up with how much corn you fill the dryer with and so skews for experiments with larger test batches and so is less important for the experiments but important to validate drying capacity when working at intended capacity.  
-- $\text{Weight \% loss rate}=\frac{W_{\text{start}}-W_{\text{end}}}{W_{\text{start}}\times duration}\times100\%$.<br/>
+- $\text{Weight % loss rate}=\frac{W_{\text{start}}-W_{\text{end}}}{W_{\text{start}}\times duration}\times100\%$.<br/>
 This normalises the drying rate for weight of sample put in, and so is the most useful metric to evaluate different experiment drying effectiveness given differing start weights of corn.
 
 A summary of the data:
