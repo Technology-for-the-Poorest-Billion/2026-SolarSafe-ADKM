@@ -1,4 +1,6 @@
-# Individual Report
+---
+title: Individual Report
+---
 
 ## Important Note
 
@@ -75,7 +77,7 @@ Following the initial research, a range of possible drying concepts and supporti
 This process generated several promising concepts, including different airflow arrangements, TES approaches, passive and active ventilation methods, and alternative drying chamber configurations. A rich picture was then used to capture these ideas.
 
 <figure align="center">
-  <img src="../../www/images/rich_picture.png"/>
+  <img src="images/rich_picture.png"/>
   <figcaption>
     Rich picture (Aditya).
   </figcaption>
@@ -123,7 +125,7 @@ The experimental setups for for the 4 investigations are shown below:
   <tr>
     <td align="center" width="50%">
       <img
-        src="../../www/images/experiment_trial.png"
+        src="images/experiment_trial.png"
         alt="Validation of base setup"
       />
       <br />
@@ -133,7 +135,7 @@ The experimental setups for for the 4 investigations are shown below:
     </td>
     <td align="center" width="50%">
       <img
-        src="../../www/images/experiment_string_mesh.png"
+        src="images/experiment_string_mesh.png"
         alt="String mesh and control test"
       />
       <br />
@@ -145,7 +147,7 @@ The experimental setups for for the 4 investigations are shown below:
   <tr>
     <td align="center" width="50%">
       <img
-        src="../../www/images/experiment_shade_cloth_mesh.png"
+        src="images/experiment_shade_cloth_mesh.png"
         alt="Shade cloth mesh and control test"
       />
       <br />
@@ -155,7 +157,7 @@ The experimental setups for for the 4 investigations are shown below:
     </td>
     <td align="center" width="50%">
       <img
-        src="../../www/images/experiment_bladder.png"
+        src="images/experiment_bladder.png"
         alt="Bladder test"
       />
       <br />
@@ -373,7 +375,7 @@ Key experimental procedures to control:
 </tbody></table>
 <p align="center">
   <caption>
-    Experiment data (Donovan).
+    <a href="../final/Drying Experiment Data.xlsx">Experiment data</a> (Donovan).
   </caption>
 </p>
 
