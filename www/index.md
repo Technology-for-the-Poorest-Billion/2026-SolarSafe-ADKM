@@ -1,3 +1,7 @@
+---
+title: Group Report
+---
+
 ## General Context
 
 From our talks with Benard and a professor Christine who specialises in Food Science at his university we understand the following: Aflatoxin is a toxic compound which is produced by Aspergillus molds which grow best in warm and humid conditions. A large problem in parts of Africa is that foods containing corn, tree nuts and peanuts can contain a lot of aflatoxin, and when these are consumed, the aflatoxin can reside in the liver and cause many deleterious health impacts, particularly increasing the risk of liver cancer. Cooking is not able to reduce the aflatoxin content. Ugali, as it is called in Kenya (Maize flour and water cooked till thick to form white solid as below) is a staple, simple-to-make cheap carbohydrate dish which fuels many, but unfortunately can contain high amounts of aflatoxin if made from infected maize and so this is a problem which affects many, particularly the smallholder farmers and common people. Aflatoxin infected foods are not visibly different nor in taste and so it is difficult for end-users to detect and avoid foods with high aflatoxin content.
