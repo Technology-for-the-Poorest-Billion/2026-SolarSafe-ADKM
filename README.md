@@ -15,10 +15,10 @@ Our project proposal was done while we were still a 4-person group. Everything e
 ## Submission Links
 
 - Proposal
-    - [Proposal Presentation PDF (shared with Materials team)](SOLARSAFE%20Project%20Proposal%20Presentation%20%28shared%20with%20Materials%20team%29.pdf)
+    - [Proposal Presentation PDF (shared with Materials team)](proposal/SOLARSAFE%20Project%20Proposal%20Presentation%20%28shared%20with%20Materials%20team%29.pdf)
 - Interim
-    - [Interim Presentation PDF](SOLARSAFE%20-%20Mechanism%20Interim%20Presentation.pdf)
+    - [Interim Presentation PDF](interim/SOLARSAFE%20-%20Mechanism%20Interim%20Presentation.pdf)
 - Final
-    - [Final Presentation Video MP4](www/SOLARSAFE_Final_Presentation.mp4)
+    - [Final Presentation Video MP4](final/SOLARSAFE_Final_Presentation.mp4)
     - [Website (Group Report)](https://technology-for-the-poorest-billion.github.io/2026-SolarSafe-ADKM/)
     - [Individual Report (Shared marking for Aditya and Donovan)]()
