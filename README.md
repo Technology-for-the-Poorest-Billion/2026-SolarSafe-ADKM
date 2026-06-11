@@ -21,4 +21,4 @@ Our project proposal was done while we were still a 4-person group. Everything e
 - Final
     - [Final Presentation Video MP4](final/SOLARSAFE_Final_Presentation.mp4)
     - [Website (Group Report)](https://technology-for-the-poorest-billion.github.io/2026-SOLARSAFE-Mechanism/)
-    - [Individual Report (Shared marking for Aditya and Donovan)](https://github.com/Technology-for-the-Poorest-Billion/2026-SOLARSAFE-Mechanism/wiki)
+    - [Individual Report (Shared marking for Aditya and Donovan)](final/individual_report/individual_report.md)
